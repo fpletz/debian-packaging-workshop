@@ -1,4 +1,5 @@
 # Update the box
+apt-get -y install curl
 apt-get -y update
 apt-get clean
 
