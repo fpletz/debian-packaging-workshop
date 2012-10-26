@@ -1,1 +1,1 @@
-package { ['dpkg-dev', 'build-essential']: }
+package { ['dpkg-dev', 'build-essential', 'cowbuilder']: }
